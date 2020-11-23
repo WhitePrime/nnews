@@ -9,7 +9,7 @@ hero: "/42e64b30-57a8-4f4f-a184-d37c5f6d9f6b.jpeg"
 ---
 # 
 
-![](https://teletype.in/files/42/e6/42e64b30-57a8-4f4f-a184-d37c5f6d9f6b.jpeg =540x)
+![](/static/images/42e64b30-57a8-4f4f-a184-d37c5f6d9f6b.jpeg)
 
 Данный скрипт поддерживает:
 
